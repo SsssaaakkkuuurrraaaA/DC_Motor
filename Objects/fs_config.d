@@ -1,0 +1,9 @@
+.\objects\fs_config.o: RTE\File_System\FS_Config.c
+.\objects\fs_config.o: .\RTE\RTE_Components.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\PACK\Keil\MDK-Middleware\6.5.0\FileSystem\Include\fs_config.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\ARM_Compiler_5.06u7\Bin\..\include\rt_sys.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\PACK\Keil\MDK-Middleware\6.5.0\FileSystem\Include\rl_fs_lib.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\PACK\Keil\MDK-Middleware\6.5.0\FileSystem\Include\rl_fs.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\fs_config.o: E:\software\Keil\keil5\keil_mdk\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdbool.h
